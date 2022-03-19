@@ -1,0 +1,6 @@
+[submodule "sendbox-api"]
+	path = sendbox-api
+	url = https://github.com/mrprfrm/sendbox-api
+[submodule "sendbox-client"]
+	path = sendbox-client
+	url = https://github.com/mrprfrm/sendbox-client
