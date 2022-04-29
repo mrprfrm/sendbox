@@ -4,3 +4,6 @@
 [submodule "sendbox-client"]
 	path = sendbox-client
 	url = https://github.com/mrprfrm/sendbox-client
+[submodule "sendbox-auth"]
+	path = sendbox-auth
+	url = https://github.com/mrprfrm/sendbox-auth
